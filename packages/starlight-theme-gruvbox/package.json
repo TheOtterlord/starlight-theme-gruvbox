@@ -1,0 +1,32 @@
+{
+	"name": "starlight-theme-gruvbox",
+	"version": "1.0.0",
+	"type": "module",
+	"exports": {
+		".": "./index.ts",
+		"./styles/*": "./styles/*"
+	},
+	"homepage": "https://starlight-theme-gruvbox.otterlord.dev/",
+	"author": "Reuben Tier <otterlord.dev@gmail.com>",
+	"files": [
+		"index.ts",
+		"styles"
+	],
+	"keywords": [
+		"withastro",
+		"starlight",
+		"gruvbox"
+	],
+	"devDependencies": {
+		"astro": "catalog:",
+		"typescript": "catalog:"
+	},
+	"peerDependencies": {
+		"@astrojs/starlight": "^0.30.0",
+		"astro": "^5.0.0"
+	},
+	"dependencies": {
+		"@astrojs/starlight": "catalog:",
+		"astro-expressive-code": "^0.38.3"
+	}
+}

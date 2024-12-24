@@ -1,0 +1,8 @@
+{
+  "name": "starlight-theme-gruvbox",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "pnpm --filter docs dev",
+    "build": "pnpm --filter docs build"
+  }
+}
