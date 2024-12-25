@@ -1,10 +1,8 @@
-<p align="center">
-	<a href="https://github.com/TheOtterlord/starlight-theme-gruvbox/stargazers"><img src="https://img.shields.io/github/stars/TheOtterlord/starlight-theme-gruvbox?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/TheOtterlord/starlight-theme-gruvbox/issues"><img src="https://img.shields.io/github/issues/TheOtterlord/starlight-theme-gruvbox?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/TheOtterlord/starlight-theme-gruvbox/contributors"><img src="https://img.shields.io/github/contributors/TheOtterlord/starlight-theme-gruvbox?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
+<h1 align="center">
+  Starlight Theme Gruvbox
+</h1>
 
-![Starlight Gruvbox theme preview](https://raw.githubusercontent.com/TheOtterlord/starlight-theme-gruvbox/refs/heads/main/assets/starlight-theme-gruvbox.webp)
+![Starlight Gruvbox theme preview](https://raw.githubusercontent.com/TheOtterlord/starlight-theme-gruvbox/refs/heads/main/assets/preview.png)
 
 ## Usage
 
